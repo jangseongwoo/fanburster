@@ -1,0 +1,85 @@
+ body {
+     margin: 0;
+
+ }
+
+ #leftMovieCatory1,
+ #leftMovieCatory2,
+ #leftMovieCatory3 {
+     margin-left: 30px;
+     margin-bottom: 0;
+     padding: 0;
+     color: grey;
+     font-weight: bold;
+ }
+
+ .selection {
+     padding-top: 30px;
+     padding-bottom: 10px;
+     text-align: center;
+     display: grid;
+     grid-template-columns: auto auto auto auto;
+     
+ }
+
+ .all {
+     padding-top: 30px;
+     padding-bottom: 10px;
+     text-align: center;
+     display: grid;
+     grid-template-columns: auto auto auto auto;
+     
+ }
+
+ .movieSummary {
+     margin: 0;
+     text-align: center;
+     font-size: 35px;
+     font-weight: bold;
+     
+
+ }
+
+ #movieSummaryBottom {
+     width: 200px;
+     margin: auto;
+     font-size: 15px;
+     font-weight: bold;
+ }
+
+ .movieContent {
+     margin: auto;
+     margin-top: 10px;
+     font-size: 11px;
+     width: 300px;
+     height: 200px;
+     display: grid;
+     grid-template-columns: auto auto;
+ }
+
+ a {
+     color: black;
+     text-decoration: none;
+ }
+
+ h1 {
+     font-size: 30px;
+     text-align: center;
+
+ }
+
+
+ .grid {
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top: 30px;
+     padding-bottom: 15px;
+     text-align: center;
+     display: grid;
+     grid-template-columns: auto auto auto auto;
+     border-bottom: 0.5px solid grey;
+ }
+
+ #logo {
+     padding-top: 30px;
+ }
