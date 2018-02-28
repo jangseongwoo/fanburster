@@ -2667,3 +2667,111 @@
 			}
 
 		}
+
+
+/* About */
+
+#about{
+    margin: 0 7em 0 7em;
+}
+#about .aboutText{
+    margin-bottom: 4em;
+}
+#about .movie{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5em;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    background-image: url('../../images/aboutMovie.png');
+}
+
+#about .identity{
+    width: 100%;
+    height: 200px;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    background-image: url('../../images/aboutIdentity.png');
+}
+
+
+/* Contact */
+
+.contact{
+    
+    margin: 0em 7rem 0em 7rem;
+}
+
+.contact .visit{
+    margin-top: 0rem;
+    margin-left: 1rem;
+    
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contact #address{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-decoration: none;    
+}
+
+.contact #map{
+    margin-left: 1rem;
+    width: 100%;
+    height: 300px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../../images/map.png');
+    margin-bottom: 2rem;
+}
+
+.contact #connect{
+    margin-top: 3rem;
+    margin-left: 1rem;
+    
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contact #sns{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+    
+}
+
+#sns{
+    text-decoration: none;
+}
+
+#sns li{
+    text-decoration: none;
+}
+
+#sns iconFacebook{
+    text-decoration: none;
+    display: inline;
+}
+
+/* Event */
+
+#poster{
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../../images/loveletter.png');
+    margin-bottom: 3rem;
+}
+
+#portfolio{
+    font-weight: bold;
+    display: inline;
+}
