@@ -2772,6 +2772,15 @@
 }
 
 #portfolio{
-    font-weight: bold;
     display: inline;
+}
+
+#motive{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#identityTitle{
+    font-weight: bold;
+    text-decoration: underline;
 }
